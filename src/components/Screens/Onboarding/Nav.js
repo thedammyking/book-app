@@ -27,7 +27,7 @@ const Nav = ({ to, step }) => {
                 </div>
             </div>
 
-            <Link className="nav__link" to="/signup">
+            <Link className="link" to="/signup">
                 Skip Intro
             </Link>
         </div>
